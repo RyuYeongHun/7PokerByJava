@@ -6,14 +6,17 @@ VisualStudioCode, eclipse, java
 
 # 실행화면 01
 ![image](https://github.com/user-attachments/assets/777edfcd-ad0d-411c-b54a-24e90140ddeb)
+
  기본 카드덱 52개에 클로버A~스페이드K까지 저장후 카드를 섞고 사용자들에게 5장씩 분배한다
 
 # 실행화면 02
 ![image](https://github.com/user-attachments/assets/d6606ea4-e98c-4cc8-8c94-c0d7debefb76)
+
 사용자가 필요시 카드를 한장씩 최대 2장의 카드를 더 얻을 수 있습니다.
 
 # 실행화면 03
 ![image](https://github.com/user-attachments/assets/4d2f7e6c-2bbc-4bce-ba89-edba65f7085c)
+
 사용자의 덱에서 총 5장의 카드가 될 때 까지 필요없는 카드들을 버려주고 각 플레이어가 5장의 카드가 되면 실제 포커 족보에따라 cost를 얻고 승패를 나눈다.
 
 # 프로젝트 일정
